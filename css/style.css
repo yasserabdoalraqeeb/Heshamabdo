@@ -9519,12 +9519,11 @@ h6,
 
 @media (max-width: 991.98px) {
   .container-fluid.nav-bar, .nav-bar.container-sm, .nav-bar.container-md, .nav-bar.container-lg, .nav-bar.container-xl {
-    position: relative;
-    background: #33211D;
   }
 }
 
 .navbar-dark .navbar-nav .nav-link {
+    text-align: right;
   padding-left: 15px;
   padding-right: 15px;
   font-weight: bold;
