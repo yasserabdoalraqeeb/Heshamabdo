@@ -9518,8 +9518,9 @@ h6,
 }
 
 @media (max-width: 991.98px) {
-  .container-fluid.nav-bar, .nav-bar.container-sm, .nav-bar.container-md, .nav-bar.container-lg, .nav-bar.container-xl {
-  }
+    .navbar-collapse {
+    background: rgba(51, 33, 29, 0.5);
+   }
 }
 
 .navbar-dark .navbar-nav .nav-link {
